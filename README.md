@@ -1,6 +1,6 @@
 ﻿# ⚔️ Intro Battle: O Confronto Final! ⚔️
 
-![Cenário de Batalha Épico](Background/cenario(lutas).png)
+![Cenário de Batalha Épico](Prints/SplashArtCropped.png)
 
 Prepare-se, herói! O destino do reino está em suas mãos neste desafiador RPG de turnos clássico! `Intro Battle` mergulha você em combates estratégicos, onde cada decisão conta e a vitória é forjada na inteligência e na força da sua equipe.
 
