@@ -8,18 +8,13 @@ Prepare-se, herói! O destino do reino está em suas mãos neste desafiador RPG 
 
 A jornada se inicia no nosso **Menu Principal**, a porta de entrada para a glória! Navegue com as setas do teclado e pressione `Z` para entrar na ação, explorar os `Créditos` ou `Sair` da aventura.
 
-![Menu Principal do Jogo](UI/introcomp_menu(resized).png)
-* **Start**: Inicie sua épica jornada!
-* **Credits**: Conheça os criadores e artistas por trás desta aventura.
-* **Exit**: Descanse seu teclado (por enquanto)!
-
 ## 🛡️ Monte Sua Equipe Lendária! 🛡️
 
 A estratégia é a chave para a vitória! No **Menu de Seleção de Personagens**, você deve escolher três bravos heróis para compor seu time. Cada um traz habilidades e características únicas para o campo de batalha.
 
 Navegue com as setas, selecione seus campeões com `Z` e prepare-se para a luta! Se mudar de ideia, `X` o levará de volta ao menu principal.
 
-![Tela de Seleção de Personagens](Background/cenario(menu).png)
+![Tela de Seleção de Personagens](Prints/Menu%20do%20Jogo.png)
 
 ### Conheça Seus Heróis:
 
@@ -40,7 +35,7 @@ Navegue com as setas, selecione seus campeões com `Z` e prepare-se para a luta!
 
 Uma vez que sua equipe esteja completa, você será lançado diretamente no coração do combate! `Intro Battle` apresenta um sistema de turnos dinâmico, onde a velocidade dos seus personagens e a dos seus inimigos determinam a ordem das ações.
 
-![Interface de Batalha](UI/introcomp_menu(resized).png)
+![Interface de Batalha](Prints/Menu%20de%20Batalha.png)
 
 ### Domine o Combate:
 
